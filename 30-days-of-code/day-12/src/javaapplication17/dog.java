@@ -13,7 +13,8 @@ package javaapplication17;
      public void bark(){
      System.out.println("the dog can bark!");
      }
-      public void eats(){
+        
+     public void eats(){
      System.out.println("the dog eats only non-veg!");
      }
      
