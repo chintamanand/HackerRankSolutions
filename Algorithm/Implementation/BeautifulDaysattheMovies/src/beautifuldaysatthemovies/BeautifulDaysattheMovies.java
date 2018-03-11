@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package beautifuldaysatthemovies;
 import java.util.*;
 public class BeautifulDaysattheMovies {
@@ -19,6 +18,7 @@ public static int beautifulDays(int i, int j, int k) {
     return count;
 }
 
+    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int i = in.nextInt();
