@@ -4,12 +4,6 @@
  * and open the template in the editor.
  */
 package javaapplication17;
-
-/**
- *
- * @author mahe
- */
-
     public class cat extends animal{
      public cat(){
          super(7);//refernces -> here goes to super class costrutor that has the age as the parameter
