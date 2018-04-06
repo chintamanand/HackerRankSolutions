@@ -17,8 +17,7 @@ public class enemy implements character {
     public void heal(){
     System.out.println("the enemy heals himself");
     }
-
-      public void drop()
+    public void drop()
       {
        System.out.println("enemy dropped weapons");
       }
