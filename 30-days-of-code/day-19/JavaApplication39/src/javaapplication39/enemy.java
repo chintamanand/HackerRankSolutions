@@ -8,7 +8,7 @@ public class enemy implements character {
     public String weapon="lightsaber";
     public enemy()
     {
-      
+      //empty Constructor
     }
     public void attack()
     {
