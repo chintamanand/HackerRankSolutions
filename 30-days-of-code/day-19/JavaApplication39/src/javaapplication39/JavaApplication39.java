@@ -1,4 +1,4 @@
-
+#my package_name
 package javaapplication39;
 import java.util.Random;
 public class JavaApplication39 {
