@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 package beautifuldaysatthemovies;
+
 import java.util.*;
+
 public class BeautifulDaysattheMovies {
 public static int beautifulDays(int i, int j, int k) {
     int count=0;
