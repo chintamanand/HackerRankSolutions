@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package stack;
 import java.util.*;
 public class Stacks {
-
    static void showpush(Stack st, int a) {
       st.push(new Integer(a));
       System.out.println("push(" + a + ")");
