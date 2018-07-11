@@ -1,4 +1,5 @@
-        /* Declare second integer, double, and String variables. */
+       
+      /* Declare second integer, double, and String variables. */
            int j=scan.nextInt();
            double c=scan.nextDouble();
            scan.nextLine();
