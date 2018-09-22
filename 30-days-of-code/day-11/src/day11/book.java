@@ -1,4 +1,3 @@
-
 package day11;
 public class book {
     String title;//instance variables
